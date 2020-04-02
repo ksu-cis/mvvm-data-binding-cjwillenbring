@@ -6,4 +6,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="CashRegister">
+      <HintPath>..\..\cowboy-cafe\PointOfSale\CashRegister.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
